@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okno1234
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning swift and javascript
+- 🌱 I’m currently learning react and tensorflow
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: github
 
